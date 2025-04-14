@@ -1,2 +1,2 @@
 # Oncovision
-Online repository for Oncovision code and other stuf
+Online repository for Oncovision code and other stuff
